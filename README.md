@@ -1,6 +1,6 @@
 # Deep Insights into Noisy Pseudo Labeling on Graph Data
 
-This is a PyTorch implementation of [Deep Insights into Noisy Pseudo Labeling on Graph Data]https://arxiv.org/abs/2310.01634),
+This is a PyTorch implementation of [Deep Insights into Noisy Pseudo Labeling on Graph Data](https://arxiv.org/abs/2310.01634),
 NeurIPS 2023, *Botao Wang, Jia Li, Yang Liu, Jiashun Cheng, Yu Rong, Wenjia Wang, Fugee Tsung*
 
 Node classification
