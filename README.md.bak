@@ -16,7 +16,7 @@ Link prediction
 Refer to the folder "/Link" for different base models. For example, if you with to run on **GAE**, you can use
 
 ```
-python ./Link/GAE/run_multiview.py 
+python Link/GAE/run_multview.py 
 ```
 
 Citation
